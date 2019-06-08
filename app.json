@@ -1,0 +1,15 @@
+{
+    "id": "c839f5a6-65fa-4d17-b819-17d5c06f550f",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.4.0",
+    "iconFile": "res/icon.png",
+    "author": {
+        "name": "Daniël Brekelmans",
+        "homepage": "https://github.com/dbrekelmans/rocketchat-remindBot",
+        "support": "https://github.com/dbrekelmans/rocketchat-remindBot/issues"
+    },
+    "name": "remindBot",
+    "nameSlug": "remindbot",
+    "classFile": "src/RemindBotApp.ts",
+    "description": "Set reminders for a user or channel with the /remind command."
+}

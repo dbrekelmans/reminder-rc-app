@@ -10,6 +10,6 @@
     },
     "name": "remindBot",
     "nameSlug": "remindbot",
-    "classFile": "src/RemindBotApp.ts",
+    "classFile": "src/RemindBot.ts",
     "description": "Set reminders for a user or channel with the /remind command."
 }

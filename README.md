@@ -9,3 +9,6 @@ Supports setting reminders with a /remind command
 
 ### Deploying app to rocketchat server
 `rc-apps deploy --url http://rocketchat:3000 --username admin --password admin --update`
+
+### App examples
+https://github.com/graywolf336/RocketChatApps

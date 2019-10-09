@@ -1,4 +1,4 @@
-# remindBot
+# Reminder (rocketchat-app)
 Supports setting reminders with a /remind command
 
 ## Development

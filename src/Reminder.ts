@@ -2,7 +2,7 @@ import {IConfigurationExtend, IEnvironmentRead} from '@rocket.chat/apps-engine/d
 import {App} from '@rocket.chat/apps-engine/definition/App';
 import {RemindCommand} from './command/RemindCommand';
 
-export class RemindBot extends App {
+export class Reminder extends App {
     protected async extendConfiguration(
         configuration: IConfigurationExtend,
         environmentRead: IEnvironmentRead,

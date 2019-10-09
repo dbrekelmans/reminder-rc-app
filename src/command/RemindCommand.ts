@@ -24,7 +24,7 @@ export class RemindCommand implements ISlashCommand {
         const message = modify.getNotifier().getMessageBuilder()
             .setRoom(context.getRoom())
             .setEmojiAvatar(':ghost:')
-            .setUsernameAlias('RemindBot')
+            .setUsernameAlias('Reminder')
             .setText('Test!')
             .getMessage();
 
